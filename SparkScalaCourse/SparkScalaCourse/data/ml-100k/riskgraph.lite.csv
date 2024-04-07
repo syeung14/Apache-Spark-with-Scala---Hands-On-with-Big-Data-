@@ -1,0 +1,3 @@
+Edge,AwsAccountId,ResourceType,LastUpdated,Resource
+MetaData,000000000826,AwsEc2Instance,20000,arn:aws:ec2:us-east-1:000000000826:instance/i-0784675265528467
+"i_CVE-1999-2160","000000000826",,1000,"arn:aws:ec2:us-east-1:000000000826:instance/i-0784675265528467"

@@ -1,0 +1,10 @@
+/project/lib
+/project/project
+/project/target
+/build
+/target
+.bsp
+.idea/
+*.iml
+**/.DS_Store
+**/**/.DS_Store
