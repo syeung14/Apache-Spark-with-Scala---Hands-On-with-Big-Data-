@@ -29,10 +29,11 @@ object SparkSQLDataset {
       .as[Person]
 
     schemaPeople.printSchema()
+    println(schemaPeople.count())
     
     schemaPeople.createOrReplaceTempView("people")
 
-    val teenagers = spark.sql("SELECT * FROM people WHERE age >= 13 AND age <= 19")
+    val teenagers = spark.sql("SELECT * FROM people WHERE age >= 18 AND age <= 19")
     
     val results = teenagers.collect()
     
