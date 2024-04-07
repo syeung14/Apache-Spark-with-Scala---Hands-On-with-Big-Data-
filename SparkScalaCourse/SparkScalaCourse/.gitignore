@@ -1,7 +1,9 @@
 /project/lib
 /project/project
+/project/META-INF
 /project/target
 /build
+/out
 /target
 .bsp
 .idea/
