@@ -1,3 +1,6 @@
 Edge,AwsAccountId,ResourceType,LastUpdated,Resource
-MetaData,000000000826,AwsEc2Instance,20000,arn:aws:ec2:us-east-1:000000000826:instance/i-0784675265528467
-"i_CVE-1999-2160","000000000826",,1000,"arn:aws:ec2:us-east-1:000000000826:instance/i-0784675265528467"
+MetaData,000000000099,AwsEc2Instance,20000,arn:aws:ec2:us-east-1:67
+"2160","000000000826",,1000,"arn:aws:ec2:us-east-1:467"
+"5394","000000000099",,,"arn:aws:ec2:us-east-1:267"
+"7260","000000000099",,,"arn:aws:ec2:us-east-1:5267"
+"9111","000000000099",,,"arn:aws:ec2:us-east-1:45267"
