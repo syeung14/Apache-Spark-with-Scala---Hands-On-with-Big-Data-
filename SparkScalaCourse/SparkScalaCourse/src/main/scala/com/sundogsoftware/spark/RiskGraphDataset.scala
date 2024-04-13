@@ -1,4 +1,4 @@
-package com.sundogsoftware.sparr
+package com.sundogsoftware.spark
 
 import org.apache.spark.sql._
 import org.apache.log4j._
